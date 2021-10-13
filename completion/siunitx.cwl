@@ -32,7 +32,7 @@
 \complexnum{%<number%>}{%<unit%>}
 \complexnum[%<options%>]{%<number%>}{%<unit%>}
 \complexqty{%<number%>}{%<unit%>}
-\complexnqty[%<options%>]{%<number%>}{%<unit%>}
+\complexqty[%<options%>]{%<number%>}{%<unit%>}
 \coulomb
 \cubed
 \cubic
